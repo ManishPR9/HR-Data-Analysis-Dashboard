@@ -7,7 +7,7 @@ It tracks key workforce parameters such as **age, salary, education, gender, and
 ---
 
 ## 🖼️ Dashboard Preview  
-
+https://github.com/ManishPR9/HR-Data-Analysis-Dashboard/blob/main/HR%20Analysis%20Dashboard.png
 
 ---
 
